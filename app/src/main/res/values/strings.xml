@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Business Card App</string>
+    <string name="full_name">Blannon Ngoge</string>
+    <string name="title">Android Engineer</string>
+    <string name="phone_number">+254 (71) 234 567</string>
+    <string name="instagram">/@blannon</string>
+    <string name="email">254@gmail.com</string>
+</resources>
